@@ -7,6 +7,7 @@ before start, you should do this command
 it is for I2C connection
 
 'sudo apt-get install i2c-tools python-smbus'
+
 'sudo raspi-config'
 click I2C and Yes
 
